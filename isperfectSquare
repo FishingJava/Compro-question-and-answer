@@ -1,0 +1,9 @@
+write a function named nextperfectSquare that returns the first perfect square that is greater than its integer argument. A Perfect square is an integer that is equal to some integer squared for example 16 is a perfect square because 16= 44. However 15 is not a perfect square because their is no integer n such that 15 =nn
+The signature of the function is
+int isPerfectSqure(int n)
+Example
+   n     next perfect square
+   6          9
+   36         49
+    0          1
+   -5          0
